@@ -44,6 +44,7 @@
 | [binternet.canine.tools](https://binternet.canine.tools/) | no | no | 🇺🇸 US |
 | [bn.kuuro.net](https://bn.kuuro.net/) | no | no | 🇺🇸 US |
 | [binternet.privadency.com](https://binternet.privadency.com/) | no | no | 🇩🇪 DE |
+| [binternet.fedi.run](https://binternet.fedi.run/) | no | no | 🇩🇪 DE |
 <br>
 
 
